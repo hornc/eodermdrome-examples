@@ -1,4 +1,4 @@
-# Eoderdrome examples
+# Eodermdrome examples
 
 A collection of code examples written by me in the esoteric programming language [Eodermdrome](https://esolangs.org/wiki/Eodermdrome).
 Eodermdrome is graph-rewriting Turing tarpit, which is quite unintuitive to program in.
