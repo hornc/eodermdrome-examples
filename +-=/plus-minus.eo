@@ -1,0 +1,79 @@
+,
+  Eoderdrome implementation of +-= decimal-counter-with-output
+  by Salpynx 2019 CC-0
+
+    https://esolangs.org/wiki/+-#.2B-.3D
+      in
+    https://esolangs.org/wiki/Eodermdrome
+,
+
+thequickbrownfoxjumpsoverthelazydog pulpnambefticsegarp
+
+(+) pulp poigo
+(-) poigo pulp
+
+(-) pulpnarp pulpnarp, decrement from 0: nop,
+(-) oarpulpna pulpbcdefghijnorj, decrement tens,
+
+pulpabcdefghizortz zoyrytzulz, increment tens,
+arpnabcdefghijzmoutz (inc 100s) zrpnzmoyuytz, increment hundreds,
+ambegacdfghijklmzvourtz (inc 1000s) zvouyrytzmbegz
+
+, output hundreds ,
+(=) egambeofticso (h1) egambeofticso
+
+, output tens and set units to auto-output ,
+(=) pnulpamorza (1) uxpnulpamorza
+(=) pnulpabmorzb (2) uxpnulpabmorzb
+(=) pnulpabcmorzc (3) uxpnulpabcmorzc
+(=) pnulpabcdmorzd (4) uxpnulpabcdmorzd
+(=) pnulpabcdemorze (5) uxpnulpabcdemorze
+(=) pnulpabcdefmorzf (6) uxpnulpabcdefmorzf
+(=) pnulpabcdefgmorzg (7) uxpnulpabcdefgmorzg
+(=) pnulpabcdefghmorzh (8) uxpnulpabcdefghmorzh
+(=) pnulpabcdefghimorzi (9) uxpnulpabcdefghimorzi
+
+, output units + newline ,
+(=) pulpnorp (0 
+) pulpnorp
+(=) pulpanora (1 
+) pulpanora
+(=) pulpabnorb (2 
+) pulpabnorb
+(=) pulpabcnorc (3 
+) pulpabcnorc
+(=) pulpabcdnord (4 
+) pulpabcdnord
+(=) pulpabcdenore (5 
+) pulpabcdenore
+(=) pulpabcdefnorf (6 
+) pulpabcdefnorf
+(=) pulpabcdefgnorg (7 
+) pulpabcdefgnorg
+(=) pulpabcdefghnorh (8 
+) pulpabcdefghnorh
+(=) pulpabcdefghinori (9 
+) pulpabcdefghinori
+
+, auto-output units + newline ,
+pulpnorpyo (0 
+) pulpnorp
+pulpanorayo (1 
+) pulpanora
+pulpabnorbyo (2 
+) pulpabnorb
+pulpabcnorcyo (3 
+) pulpabcnorc
+pulpabcdnordyo (4 
+) pulpabcdnord
+pulpabcdenoreyo (5 
+) pulpabcdenore
+pulpabcdefnorfyo (6 
+) pulpabcdefnorf
+pulpabcdefgnorgyo (7 
+) pulpabcdefgnorg
+pulpabcdefghnorhyo (8 
+) pulpabcdefghnorh
+pulpabcdefghinoriyo (9 
+) pulpabcdefghinori
+
