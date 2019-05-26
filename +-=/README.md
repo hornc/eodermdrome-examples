@@ -1,4 +1,4 @@
-# Eoderdrome implementation of +-= decimal-counter-with-output
+# Eodermdrome implementation of +-= decimal-counter-with-output
 by Salpynx 2019 CC-0
 
 https://esolangs.org/wiki/+-#.2B-.3D
@@ -28,7 +28,7 @@ Examples of usage using the Haskell iterpreter:
     1 
     0
 
-##TODO
+## TODO
 * finish clean output for 100s `100s16` => `116`
 * implement the 1000s counter
 * refactor down some of the substitutions
