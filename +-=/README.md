@@ -14,7 +14,7 @@ Input:
 
 It is currently incomplete (3rd digit counter output is not fully implemented) and may contain some other bugs, but should be generally usable to prove the counter technique. You have to input over 100 characters to hit the current limit, and at the intended limit of 9999, your CPU is going to be spinning like crazy. There are more efficient ways of counting, but this proves a concept.  
 
-Examples of usage using the Haskell iterpreter:
+Examples of usage using the Python iterpreter:
 
     runeo ./plus-minus.eo <<< "+++="
     3
