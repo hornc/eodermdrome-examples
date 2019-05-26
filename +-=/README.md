@@ -28,6 +28,10 @@ Examples of usage using the Haskell iterpreter:
     1 
     0
 
+This counts (with output) successfully to 99, and then beyond, showing what is and isn't currently implemented:
+
+    runeo ./plus-minus.eo <<< "+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+="
+
 ## TODO
 * finish clean output for 100s `100s16` => `116`
 * implement the 1000s counter
